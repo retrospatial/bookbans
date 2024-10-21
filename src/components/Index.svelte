@@ -20,7 +20,7 @@
 <style>
 	/* Set the background image for the component */
 	:global(body) {
-		background-image: url('/assets/paper.png');
+		background-image: url('/assets/images/paper.png');
 		background-size: cover; /* Cover the entire background */
 		background-repeat: no-repeat; /* Prevent the image from repeating */
 		background-position: center; /* Center the image */
