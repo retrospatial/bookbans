@@ -1,7 +1,7 @@
 <!-- 
 npm run build
 git add .
-git commit -m "push"
+git commit -m "reload"
 git push origin main
  -->
 
@@ -32,7 +32,8 @@ git push origin main
 </script>
 
 <div id="page">
-	<!-- <IntroScrolly /> -->
+	
+	<IntroScrolly />
 	<UniqueTitles />
 	
 	<p>
