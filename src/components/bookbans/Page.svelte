@@ -1,8 +1,8 @@
 <!-- 
+npm run build
 git add .
-git commit -m "Update base path for GitHub Pages"
+git commit -m "push"
 git push origin main
-npm run deploy
  -->
 
 <script>
@@ -32,7 +32,7 @@ npm run deploy
 </script>
 
 <div id="page">
-	<!-- <IntroScrolly /> -->
+	<IntroScrolly />
 	<UniqueTitles />
 	
 	<p>
