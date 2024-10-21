@@ -10,7 +10,7 @@
 	// Preload images to avoid flashing
 	const preloadImages = [...bookImages, ...bookImagesFade].map(image => {
 		const img = new Image();
-		img.src = `src/assets/${image}`;
+		img.src = `/assets/images/${image}`;
 		return img;
 	});
 </script>
@@ -19,7 +19,7 @@
 	<div class="books-container">
 		{#each bookImages as image, index}
 			<img 
-				src={`src/assets/${image}`} 
+				src={`/assets/images/${image}`} 
 				alt={`Book ${index + 1}`} 
 				class={`book-image ${scrollIndex >= index ? 'fade-in' : ''}`} 
 			/>
@@ -30,7 +30,7 @@
         {#if scrollIndex >= 5}
             {#each bookImagesFade as image, index}
                 <img 
-                    src={`src/assets/${image}`}
+                    src={`/assets/images/${image}`}
                     alt={`Book ${index + 6}`}
                     class="book-image book-image-fade"
                     style="animation-delay: {index * 0.1}s;"

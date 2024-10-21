@@ -19,7 +19,7 @@
     // Load the data when the component is mounted
     onMount(async () => {
         try {
-            const dataPath = "./src/data/3_timedifferences.csv"; 
+            const dataPath = "/assets/data/3_timedifferences.csv"; 
             data = await d3.csv(dataPath);
 
             // Ensure the values are numbers

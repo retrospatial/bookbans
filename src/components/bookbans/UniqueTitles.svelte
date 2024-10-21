@@ -18,7 +18,7 @@
 
     // Load the data when the component is mounted
     onMount(async () => {
-        const dataPath = "./src/data/1_uniquetitles.csv"; 
+        const dataPath = "/assets/data/1_uniquetitles.csv"; 
         data = await d3.csv(dataPath);
         
         // Ensure the y values are numbers

@@ -22,7 +22,7 @@
 		const us = await fetch('https://cdn.jsdelivr.net/npm/us-atlas@3/counties-albers-10m.json')
 			.then(d => d.json());
 
-		data = await csv("./src/data/5_banmap.csv", d => {
+		data = await csv("/assets/data/5_banmap.csv", d => {
 			return {
 				...d,
 				year: +d.year,

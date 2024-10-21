@@ -1,0 +1,308 @@
+"state","county_names","county_fips","accurate_members"
+"OH","Allen County","39003",20
+"TX","Taylor County","48441",8
+"MO","St. Louis County","29189",906
+"CO","Boulder County","08013",26
+"NC","Buncombe County","37021",107
+"PA","Schuylkill County","42107",169
+"WA","Pierce County","53053",356
+"MA","Middlesex County","25017",404
+"FL","Putnam County","12107",51
+"VA","Fauquier County","51061",29
+"CO","El Paso County","08041",515
+"AZ","Maricopa County","04013",5
+"NJ","Sussex County","34037",69
+"FL","Charlotte County","12015",84
+"SC","Berkeley County","45015",565
+"OK","Garfield County","40047",23
+"TX","Gillespie County","48171",45
+"MO","St. Charles County","29183",86
+"CA","Santa Clara County","06085",39
+"VA","Fairfax County","51059",45
+"NC","Chatham County","37037",146
+"OH","Stark County","39151",639
+"NY","Westchester County","36119",672
+"MD","Carroll County","24013",1123
+"OH","Madison County","39097",92
+"NV","Clark County","32003",434
+"KY","Hardin County","21093",303
+"MN","Wright County","27171",585
+"GA","Fulton County","13121",30
+"PA","Erie County","42049",289
+"FL","Okaloosa County","12091",88
+"KS","Ford County","20057",57
+"IA","Linn County","19113",124
+"CO","Weld County","08123",186
+"NE","Douglas County","31055",285
+"GA","Oconee County","13219",587
+"NM","San Juan County","35045",7
+"GA","Hall County","13139",139
+"IN","La Porte County","18091",209
+"MD","Talbot County","24041",132
+"WI","Jefferson County","55055",6
+"CA","Colusa County","06011",105
+"TX","Hays County","48209",56
+"SC","Marlboro County","45069",3
+"CA","Yolo County","06113",280
+"ND","Ward County","38101",132
+"CO","Douglas County","08035",101
+"AZ","Maricopa County","04013",2
+"TX","Lubbock County","48303",8
+"SD","Meade County","46093",42
+"CA","Los Angeles County","06037",196
+"NE","Sheridan County","31161",5
+"IA","Scott County","19163",34
+"MD","Worcester County","24047",161
+"AR","Pulaski County","05119",41
+"VA","Warren County","51187",4
+"WI","Washington County","55131",165
+"NC","Forsyth County","37067",113
+"VA","Campbell County","51031",1
+"MN","St. Louis County","27137",96
+"CA","San Diego County","06073",289
+"WI","Racine County","55101",384
+"NJ","Union County","34039",1
+"NJ","Monmouth County","34025",404
+"IA","Dallas County","19049",182
+"WA","Lewis County","53041",5
+"MD","Howard County","24027",239
+"TX","Williamson County","48491",50
+"SC","Kershaw County","45055",72
+"NC","Johnston County","37101",55
+"MI","Midland County","26111",169
+"WI","Winnebago County","55139",349
+"IN","Howard County","18067",1089
+"NY","Oneida County","36065",210
+"UT","Salt Lake County","49035",2
+"WA","Chelan County","53007",144
+"WA","Spokane County","53063",4
+"NC","Wilson County","37195",43
+"CA","San Mateo County","06081",40
+"WA","Whitman County","53075",70
+"SC","Pickens County","45077",257
+"NJ","Hudson County","34017",5
+"NM","Bernalillo County","35001",274
+"NC","Davidson County","37057",28
+"SD","Minnehaha County","46099",202
+"VA","Prince William County","51153",50
+"AK","Fairbanks North Star Borough","02090",6
+"WI","Burnett County","55013",42
+"PA","Mc Kean County","42083",32
+"NJ","Passaic County","34031",95
+"GA","Laurens County","13175",15
+"PA","Pike County","42103",117
+"LA","East Baton Rouge Parish","22033",129
+"AR","Lee County","05077",89
+"AL","Madison County","01089",3
+"FL","Collier County","12021",414
+"CA","Riverside County","06065",327
+"PA","Lebanon County","42075",660
+"TN","Putnam County","47141",21
+"ID","Nez Perce County","16069",64
+"TX","Kerr County","48265",52
+"CT","Greater Bridgeport Planning Region","09120",395
+"OK","Oklahoma County","40109",110
+"TX","Travis County","48453",320
+"TN","Blount County","47009",30
+"NC","Rowan County","37159",13
+"SC","Greenville County","45045",211
+"NY","Schenectady County","36093",308
+"CA","Shasta County","06089",237
+"FL","Santa Rosa County","12113",326
+"IA","Hardin County","19083",112
+"GA","Jackson County","13157",5
+"VA","Loudoun County","51107",409
+"NC","Wake County","37183",736
+"NY","Putnam County","36079",577
+"TX","Galveston County","48167",13
+"PA","Lancaster County","42071",750
+"NY","Monroe County","36055",684
+"SC","Spartanburg County","45083",17
+"AK","Anchorage Borough","02020",15
+"FL","Orange County","12095",592
+"OK","Tulsa County","40143",1020
+"PA","Philadelphia County","42101",164
+"NC","Mecklenburg County","37119",1366
+"CA","San Luis Obispo County","06079",1836
+"PA","Adams County","42001",375
+"SC","Lexington County","45063",615
+"TN","Sumner County","47165",532
+"TX","San Patricio County","48409",20
+"SC","York County","45091",982
+"WA","King County","53033",203
+"IA","Carroll County","19027",90
+"NY","Wayne County","36117",294
+"FL","Sarasota County","12115",1636
+"IN","Noble County","18113",38
+"WI","Rock County","55105",15
+"NC","Gaston County","37071",84
+"VA","Virginia Beach city","51810",6
+"OH","Delaware County","39041",237
+"WY","Sweetwater County","56037",143
+"WI","Kenosha County","55059",675
+"NY","Orange County","36071",829
+"SC","Oconee County","45073",16
+"TX","Nueces County","48355",130
+"VA","Montgomery County","51121",26
+"NC","Cabarrus County","37025",492
+"IA","Polk County","19153",1063
+"OK","Canadian County","40017",284
+"CA","Santa Barbara County","06083",6
+"DE","New Castle County","10003",89
+"NJ","Cape May County","34009",16
+"IN","Allen County","18003",508
+"CO","Mesa County","08077",111
+"NC","New Hanover County","37129",153
+"SC","Florence County","45041",257
+"NY","Queens County","36081",103
+"MO","Greene County","29077",185
+"TX","Collin County","48085",151
+"TX","Tarrant County","48439",1896
+"PA","Beaver County","42007",81
+"NC","Guilford County","37081",286
+"IN","Warrick County","18173",331
+"NC","Pender County","37141",40
+"AL","Baldwin County","01003",4
+"CA","Tuolumne County","06109",164
+"IL","Cook County","17031",2
+"FL","Citrus County","12017",4
+"NY","Greene County","36039",74
+"TN","Shelby County","47157",328
+"PA","Northampton County","42095",42
+"FL","Osceola County","12097",117
+"RI","Washington County","44009",109
+"FL","Highlands County","12055",41
+"TX","Harris County","48201",66
+"WY","Converse County","56009",2
+"AR","Washington County","05143",148
+"SC","Horry County","45051",15
+"CA","Ventura County","06111",3
+"NY","Suffolk County","36103",5648
+"MI","Grand Traverse County","26055",270
+"PA","Lehigh County","42077",413
+"FL","Hillsborough County","12057",454
+"WI","St. Croix County","55109",220
+"PA","Lackawanna County","42069",288
+"IN","Tipton County","18159",223
+"MD","Cecil County","24015",62
+"SC","Laurens County","45059",62
+"IN","Hamilton County","18057",365
+"PA","Chester County","42029",1347
+"SD","Hughes County","46065",103
+"FL","Palm Beach County","12099",397
+"CT","Capitol Planning Region","09110",389
+"CA","Orange County","06059",195
+"SC","Anderson County","45007",531
+"WI","Marathon County","55073",4
+"PA","York County","42133",465
+"TX","Kendall County","48259",8
+"PA","Washington County","42125",337
+"WY","Laramie County","56021",504
+"PA","Monroe County","42089",101
+"FL","Flagler County","12035",557
+"FL","Polk County","12105",159
+"PA","Westmoreland County","42129",109
+"FL","Duval County","12031",142
+"WI","Dane County","55025",39
+"WI","Wood County","55141",374
+"GA","Cobb County","13067",41
+"MD","Harford County","24025",125
+"VA","Suffolk city","51800",4
+"MD","Montgomery County","24031",394
+"SC","Beaufort County","45013",175
+"FL","Monroe County","12087",119
+"PA","Montgomery County","42091",470
+"MI","Allegan County","26005",29
+"MI","Wayne County","26163",922
+"TX","Lynn County","48305",6
+"NC","Union County","37179",1565
+"HI","Honolulu County","15003",120
+"WI","Milwaukee County","55079",56
+"FL","Pinellas County","12103",682
+"NC","Onslow County","37133",48
+"MI","Kent County","26081",385
+"WY","Natrona County","56025",178
+"FL","Marion County","12083",104
+"WI","Manitowoc County","55071",14
+"OK","Stephens County","40137",59
+"AZ","Pinal County","04021",15
+"ND","Williams County","38105",526
+"TX","Denton County","48121",392
+"NH","Hillsborough County","33011",292
+"MI","Branch County","26023",196
+"TX","Comal County","48091",43
+"NC","Orange County","37135",216
+"NH","Rockingham County","33015",160
+"WA","Snohomish County","53061",24
+"MS","Madison County","28089",84
+"NY","Dutchess County","36027",80
+"TX","Montgomery County","48339",59
+"SC","Richland County","45079",194
+"AZ","Pima County","04019",408
+"FL","Clay County","12019",612
+"WY","Hot Springs County","56017",13
+"KS","Shawnee County","20177",2
+"AZ","Maricopa County","04013",1569
+"PA","Franklin County","42055",738
+"OR","Douglas County","41019",68
+"NJ","Bergen County","34003",1263
+"NC","Orange County","37135",26
+"TN","Wilson County","47189",24
+"FL","Brevard County","12009",107
+"TN","Davidson County","47037",303
+"CA","Contra Costa County","06013",989
+"NJ","Camden County","34007",35
+"IL","Tazewell County","17179",29
+"NY","Nassau County","36059",4278
+"KS","Shawnee County","20177",84
+"VA","Stafford County","51179",412
+"CA","Lake County","06033",155
+"NC","Stanly County","37167",185
+"MN","Otter Tail County","27111",174
+"SC","Lancaster County","45057",123
+"WA","Benton County","53005",276
+"TN","Williamson County","47187",3643
+"WV","Kanawha County","54039",43
+"TN","Hamilton County","47065",220
+"IA","Warren County","19181",365
+"OK","Pottawatomie County","40125",75
+"FL","Duval County","12031",1618
+"KY","Fayette County","21067",153
+"PA","Union County","42119",76
+"NC","Ashe County","37009",59
+"NC","Transylvania County","37175",24
+"OH","Hamilton County","39061",534
+"TX","Fort Bend County","48157",109
+"PA","Dauphin County","42043",114
+"FL","Leon County","12073",215
+"GA","Gwinnett County","13135",200
+"IN","Cass County","18017",317
+"CT","Northwest Hills Planning Region","09160",62
+"MO","Jackson County","29095",57
+"MN","Olmsted County","27109",773
+"SC","Charleston County","45019",1316
+"VA","Bedford County","51019",286
+"FL","Volusia County","12127",1505
+"KS","Johnson County","20091",933
+"OH","Medina County","39103",172
+"MD","Anne Arundel County","24003",184
+"SC","Georgetown County","45043",94
+"ME","Kennebec County","23011",80
+"FL","Pasco County","12101",374
+"OH","Summit County","39153",425
+"MD","Frederick County","24021",587
+"CA","Placer County","06061",1782
+"FL","Martin County","12085",304
+"NJ","Morris County","34027",729
+"NY","Niagara County","36063",77
+"NC","Iredell County","37097",1731
+"TN","Sullivan County","47163",187
+"WI","Polk County","55095",159
+"NC","Bladen County","37017",67
+"PA","Delaware County","42045",708
+"FL","Hernando County","12053",170
+"NJ","Burlington County","34005",330
+"FL","Broward County","12011",639
+"TN","Knox County","47093",311
+"OH","Lake County","39085",295
+"FL","Indian River County","12061",777

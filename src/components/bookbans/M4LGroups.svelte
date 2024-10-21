@@ -20,7 +20,7 @@
 
     // Load the data when the component is mounted
     onMount(async () => {
-        const dataPath = "./src/data/2_risegroups.csv"; 
+        const dataPath = "/assets/data/2_risegroups.csv"; 
         data = await d3.csv(dataPath);
 
         // Create a date parser for the 'YYYY-MM-DD' format

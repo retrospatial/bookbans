@@ -32,7 +32,7 @@ git push origin main
 </script>
 
 <div id="page">
-	<IntroScrolly />
+	<!-- <IntroScrolly /> -->
 	<UniqueTitles />
 	
 	<p>

@@ -25,7 +25,7 @@
 			.then(d => d.json());
 		
 		// Load CSV data
-		data = await csv("./src/data/4_m4lmap.csv");
+		data = await csv("/assets/data/4_m4lmap.csv");
 		
 		// Parse the topojson features
 		states = topojson.feature(us, us.objects.states).features;

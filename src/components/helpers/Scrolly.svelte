@@ -67,12 +67,13 @@
 	};
 
 	onMount(() => {
+		nodes = container.querySelectorAll(":scope > *:not(iframe)");
 		for (let i = 0; i < increments + 1; i++) {
 			threshold.push(i / increments);
 		}
-		nodes = container.querySelectorAll(":scope > *:not(iframe)");
 		update();
 	});
+
 </script>
 
 <div bind:this={container}>
