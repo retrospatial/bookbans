@@ -10,8 +10,8 @@
 		"preview": "vite preview",
 		"lint": "prettier --check --plugin-search-dir=. .",
 		"format": "prettier --write --plugin-search-dir=. .",
-		"predeploy": "npm run build",  
-		"deploy": "gh-pages -d dist"    
+		"predeploy": "npm run build",
+		"deploy": "gh-pages -d dist"
 	},
 	"devDependencies": {
 		"@rollup/plugin-dsv": "^3.0.4",

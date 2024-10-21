@@ -1,3 +1,10 @@
+<!-- 
+git add .
+git commit -m "Update base path for GitHub Pages"
+git push origin main
+npm run deploy
+ -->
+
 <script>
 
 	import DemoLink from "$components/demo/Demo.Link.svelte";
