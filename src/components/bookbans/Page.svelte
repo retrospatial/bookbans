@@ -32,7 +32,7 @@ npm run deploy
 </script>
 
 <div id="page">
-	<IntroScrolly />
+	<!-- <IntroScrolly /> -->
 	<UniqueTitles />
 	
 	<p>
@@ -66,8 +66,8 @@ npm run deploy
 	<M4LMap />
 	<BookBanMap />
 
-	<h1>test</h1>
-	<MapsScrolly />
+	<!-- <h1>test</h1>
+	<MapsScrolly /> -->
 	
 
 	<!-- <DemoLink />

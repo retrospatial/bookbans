@@ -1,0 +1,65 @@
+{
+	"version": 3,
+	"routes": [
+		{
+			"src": "/demo/elements/",
+			"dest": "/demo/elements"
+		},
+		{
+			"src": "/demo/elements",
+			"status": 308,
+			"headers": {
+				"Location": "/demo/elements/"
+			}
+		},
+		{
+			"src": "/demo/fonts/",
+			"dest": "/demo/fonts"
+		},
+		{
+			"src": "/demo/fonts",
+			"status": 308,
+			"headers": {
+				"Location": "/demo/fonts/"
+			}
+		},
+		{
+			"src": "/demo/ig-story/",
+			"dest": "/demo/ig-story"
+		},
+		{
+			"src": "/demo/ig-story",
+			"status": 308,
+			"headers": {
+				"Location": "/demo/ig-story/"
+			}
+		},
+		{
+			"src": "/_app/immutable/.+",
+			"headers": {
+				"cache-control": "public, immutable, max-age=31536000"
+			}
+		},
+		{
+			"handle": "filesystem"
+		},
+		{
+			"src": "/.*",
+			"dest": "/fn"
+		}
+	],
+	"overrides": {
+		"index.html": {
+			"path": ""
+		},
+		"demo/elements/index.html": {
+			"path": "demo/elements"
+		},
+		"demo/fonts/index.html": {
+			"path": "demo/fonts"
+		},
+		"demo/ig-story/index.html": {
+			"path": "demo/ig-story"
+		}
+	}
+}
