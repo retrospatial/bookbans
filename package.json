@@ -1,6 +1,7 @@
 {
 	"name": "svelte-starter",
 	"version": "5.23.0",
+	"homepage": "https://retrospatial.github.io/bookbans",
 	"scripts": {
 		"gdoc": "node tasks/fetch-google.js",
 		"style": "node tasks/style-dictionary.js",
@@ -8,7 +9,9 @@
 		"build": "vite build",
 		"preview": "vite preview",
 		"lint": "prettier --check --plugin-search-dir=. .",
-		"format": "prettier --write --plugin-search-dir=. ."
+		"format": "prettier --write --plugin-search-dir=. .",
+		"predeploy": "npm run build",  
+		"deploy": "gh-pages -d dist"    
 	},
 	"devDependencies": {
 		"@rollup/plugin-dsv": "^3.0.4",
@@ -19,6 +22,7 @@
 		"autoprefixer": "^10.4.19",
 		"bits-ui": "^0.21.12",
 		"d3": "^7.9.0",
+		"gh-pages": "^6.2.0",
 		"lodash.debounce": "^4.0.8",
 		"lucide-svelte": "^0.439.0",
 		"postcss": "^8.4.45",
