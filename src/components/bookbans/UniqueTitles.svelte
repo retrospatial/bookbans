@@ -65,13 +65,12 @@
 
 <style>
     .chart-container {
-        width: calc(100% - 2rem);
         height: 400px;
         margin: 1rem auto 1rem auto;
-        background: #f2f2f2;
         padding: 1rem;
+        /* background: #f2f2f2;
         border: 2px solid;
-        border-color: var(--window-inset-stroke);
+        border-color: var(--window-inset-stroke); */
     }
 
     @media (max-width: 600px) { 

@@ -66,6 +66,7 @@
         padding: 1rem 0;
         position: relative;
         align-items: center;
+        max-height: 100vh;
     }
 
     .imagesLoaded #books-array {

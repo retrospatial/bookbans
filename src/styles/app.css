@@ -75,6 +75,7 @@ h1 {
 
 h2 {
 	font-size: var(--36px, 36px);
+	font-family: 'Courier New', Courier, monospace;
 }
 
 h3 {
@@ -94,5 +95,6 @@ h6 {
 }
 
 p {
-	font-size: var(--16px, 16px);
+	font-size: var(--18px, 18px);
+	font-family:'Work Sans', serif;
 }
