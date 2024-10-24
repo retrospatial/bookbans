@@ -108,6 +108,7 @@ vercel --prod
 		max-width: 42rem;   
 		margin: 64px auto;    
 		text-align: left;
+		font-family: 'American Typewriter', sans-serif;
 	}
 </style>
 

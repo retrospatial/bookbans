@@ -18,6 +18,7 @@
     }
 
     .chart-title {
+        font-family: 'American Typewriter', sans-serif;
         margin-top: 4rem;
         margin-bottom: 0.25rem;
         font-size: 24px;

@@ -46,11 +46,13 @@
         width: 500px;
         margin: 0 auto;
         padding: 32px 0;
+        font-family: 'American Typewriter', sans-serif;
     }
 
     .label, .year {
         text-align: center; 
         margin: 5px 0; 
+        font-family: 'American Typewriter', sans-serif;
     }
 
     @media (max-width: 600px) { 

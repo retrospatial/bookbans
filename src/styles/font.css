@@ -33,3 +33,10 @@
 	font-stretch: normal;
 	font-display: swap;
 }
+
+@font-face {
+	font-family: 'American Typewriter';
+	src: url('/assets/fonts/American Typewriter Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+  }

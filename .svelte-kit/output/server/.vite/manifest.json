@@ -73,7 +73,7 @@
       "_ssr.js"
     ],
     "css": [
-      "_app/immutable/assets/_layout.BVaZkG9d.css"
+      "_app/immutable/assets/_layout.CLL5mCif.css"
     ]
   },
   "src/routes/+page.server.js": {
@@ -92,7 +92,7 @@
       "_index.js"
     ],
     "css": [
-      "_app/immutable/assets/_page.DvplzHrN.css"
+      "_app/immutable/assets/_page.IFdc3yVV.css"
     ]
   },
   "src/routes/demo/elements/+page.svelte": {
