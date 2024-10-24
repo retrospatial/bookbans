@@ -1,4 +1,4 @@
-import adapter from '@sveltejs/adapter-static';
+import adapter from '@sveltejs/adapter-vercel';
 import sveltePreprocess from 'svelte-preprocess';
 import autoprefixer from 'autoprefixer';
 
@@ -8,12 +8,14 @@ const preprocess = sveltePreprocess({
     }
 });
 
+const isGitHubPages = process.env.GITHUB_ACTIONS || false;
+
 const config = {
     preprocess,
     kit: {
         adapter: adapter(),
         paths: {
-            base: '',
+            base: isGitHubPages ? '/bookbans' : '' // GitHub Pages expects the base path, Vercel doesn't.
         }
     }
 };
