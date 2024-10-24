@@ -37,7 +37,6 @@
 <style>
 	#scrolly {
 		position: relative;
-		margin: 0;
 		z-index: 1000;
 	}
 	.sticky {
@@ -45,6 +44,9 @@
 		top: 0;
 		transition: all 1s;
 		min-height: 100vh;
+		max-width: 40rem;
+		width: 100%;
+		margin: 0 auto;  
 		z-index: 1;
 		overflow-x: hidden;
 		pointer-events: none;

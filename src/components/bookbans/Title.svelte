@@ -34,8 +34,8 @@
         margin: 0 auto;
         text-align: center;
 		margin-top: -60px; 
-    }
-	
+	}
+    	
 	#title {
 		margin: 0;
 	}

@@ -25,7 +25,6 @@
         );
     }
 
-    // Use onMount to ensure this runs after the DOM is ready
     onMount(async () => {
         const allImages = [...bookImages, ...bookImagesFade];
         await preloadImages(allImages);
@@ -63,14 +62,16 @@
         display: flex;
         flex-direction: column;
         width: 100%;
-        padding: 1rem 0;
         position: relative;
         align-items: center;
         max-height: 100vh;
+        margin: 32px auto;  
+		padding-top: 32px;  
     }
 
     .imagesLoaded #books-array {
-        visibility: visible; /* Show once images are loaded */
+        visibility: visible; 
+        
     }
 
     .books-container, .fade-container {
@@ -79,15 +80,21 @@
         gap: 1rem;
         width: 100%;
         padding-bottom: 1rem;
+        justify-items: center;
+        justify-content: center;
+        align-items: center;
     }
 
     .book-image, .book-image-fade {
-        height: 150px; 
+        height: 15vh; 
         width: auto; 
         border-radius: 5px;
         object-fit: cover; 
         opacity: 0;
         transform: translateY(20px);
+        transition: opacity 0.5s ease-out, transform 0.5s ease-out;
+        padding: 0;
+        margin: 0;
     }
 
     @keyframes fadeInUp {
@@ -116,4 +123,14 @@
         justify-content: space-between;
         width: 100%;
     }
+
+    /* @media (max-width: 600px) {
+        .books-container, .fade-container {
+            grid-template-columns: repeat(2, 1fr); 
+        }
+
+        .book-image, .book-image-fade {
+            height: 22vh;
+        }
+    } */
 </style>

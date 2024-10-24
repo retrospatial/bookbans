@@ -1,6 +1,8 @@
 <script>
 	import { getContext } from "svelte";
+	import Section1 from "$components/bookbans/Section1.svelte";
 	import Title from "$components/bookbans/Title.svelte";
+	import IntroScrolly from "$components/bookbans/IntroScrolly.svelte";
 	import Page from "$components/bookbans/Page.svelte";
 	import copy from "$data/copy.json";
 	// import Footer from "$components/Footer.svelte";
@@ -9,7 +11,7 @@
 	// const data = getContext("data");
 </script>
 
-<Title />
+<Section1 />
 <Page />
 
 
