@@ -36,10 +36,10 @@
     "file": "chunks/ssr.js",
     "name": "ssr"
   },
-  "node_modules/@sveltejs/kit/src/runtime/server/index.js": {
+  "node_modules/.pnpm/@sveltejs+kit@2.7.2_@sveltejs+vite-plugin-svelte@3.1.2_svelte@4.2.19_vite@5.4.3__svelte@4.2.19_vite@5.4.3/node_modules/@sveltejs/kit/src/runtime/server/index.js": {
     "file": "index.js",
     "name": "index",
-    "src": "node_modules/@sveltejs/kit/src/runtime/server/index.js",
+    "src": "node_modules/.pnpm/@sveltejs+kit@2.7.2_@sveltejs+vite-plugin-svelte@3.1.2_svelte@4.2.19_vite@5.4.3__svelte@4.2.19_vite@5.4.3/node_modules/@sveltejs/kit/src/runtime/server/index.js",
     "isEntry": true,
     "imports": [
       "_paths.js",
@@ -73,7 +73,7 @@
       "_ssr.js"
     ],
     "css": [
-      "_app/immutable/assets/_layout.DfPekZk_.css"
+      "_app/immutable/assets/_layout.BVaZkG9d.css"
     ]
   },
   "src/routes/+page.server.js": {
@@ -92,7 +92,7 @@
       "_index.js"
     ],
     "css": [
-      "_app/immutable/assets/_page.Bh995CFj.css"
+      "_app/immutable/assets/_page.DvplzHrN.css"
     ]
   },
   "src/routes/demo/elements/+page.svelte": {
@@ -104,7 +104,7 @@
       "_ssr.js"
     ],
     "css": [
-      "_app/immutable/assets/_page.DwDI_Gvc.css"
+      "_app/immutable/assets/_page.CsgfhULn.css"
     ]
   },
   "src/routes/demo/fonts/+page.svelte": {
@@ -117,7 +117,7 @@
       "_paths.js"
     ],
     "css": [
-      "_app/immutable/assets/_page.DAowjiCl.css"
+      "_app/immutable/assets/_page.MWHyxg-Z.css"
     ]
   },
   "src/routes/demo/ig-story/+page.svelte": {
@@ -130,7 +130,7 @@
       "_index.js"
     ],
     "css": [
-      "_app/immutable/assets/_page.CoF_kmeS.css"
+      "_app/immutable/assets/_page.BMf-RGIR.css"
     ]
   }
 }
