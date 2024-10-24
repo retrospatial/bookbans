@@ -3,6 +3,8 @@ npm run build
 git add .
 git commit -m "updated styling"
 git push origin main
+
+vercel --prod
  -->
 
 <script>
